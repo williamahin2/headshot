@@ -203,7 +203,7 @@ body {
   
           <div class="topnav" id="myTopnav">
      <span class="topnavhead" id="demo"><b><img alt="Image placeholder" style="
-    display: inline-block;margin-right: 5px; margin-left: 1px;padding-top: 0px;padding-bottom: 0px; height: 40px; width: 43px;" src="logo.png"> Ninja Checker</b></span>
+    display: inline-block;margin-right: 5px; margin-left: 1px;padding-top: 0px;padding-bottom: 0px; height: 40px; width: 43px;" src="logo.png"> CrossFire Checker</b></span>
       <a href="About.php" >About</a>
       <a href="skcheck.php" class="topnavac" style="color: white">SK Checker</a>
         <a href="skgen.php">SK Generator</a>
