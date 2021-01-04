@@ -3,13 +3,12 @@
 <html lang="en">
 
 
-<!-- Mirrored from ninja-checker.herokuapp.com/skcheck.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:21:31 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+=<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <!-- /Added by HTTrack -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="icon" type="image/png" href="logo.png">
-  <title id="title">𝗡𝗜𝗡𝗝𝗔 𝗦𝗞 𝗖𝗛𝗘𝗖𝗞𝗘𝗥</title>
+  <title id="title">CROSSFIRE SK CHECKER</title>
   <meta name="description" content="">
   <meta name="robots" content="all,follow">
   <link href="https://fonts.googleapis.com/css?family=Tomorrow&amp;display=swap" rel="stylesheet">
@@ -289,7 +288,7 @@ function myFunction() {
         <div class="container-fluid">
           <div class="copyright">
             © 2020 made by
-            <a href="http://t.me/ninjanaveen"> NINJA NAVEEN</a>
+            <a href="http://t.me/anonymouswwdc"> ANONYMOUS WWDC </a>
           </div>
         </div>
       </footer>
@@ -424,5 +423,5 @@ function myFunction() {
 </body>
 
 
-<!-- Mirrored from ninja-checker.herokuapp.com/skcheck.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:21:58 GMT -->
+
 </html>

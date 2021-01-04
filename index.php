@@ -1,15 +1,10 @@
 
 
-<!-- saved from url=(0038)https://chkfull24hr.000webhostapp.com/ -->
+
 <html>
-<!-- Mirrored from editfly-chk.xyz/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 25 Oct 2018 02:18:04 GMT -->
-<!-- Added by HTTrack -->
-
-
-<!-- Mirrored from ninja-checker.herokuapp.com/checker.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:17:42 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <!-- /Added by HTTrack -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="icon" type="image/png" href="logo.png">
   <title id="title">CROSSFIRE CC CHECKER </title>
   <meta name="description" content="">
@@ -448,7 +443,7 @@ id="sec" class="form-control" rows="1" placeholder="sk_live_xxxxxxx"></textarea>
         <div class="container-fluid">
           <div class="copyright">
             © 2020 made by
-            <a href="http://t.me/ninjanaveen"> NINJA NAVEEN</a>
+            <a href="http://t.me/anonymouswwdc"> ANONYMOUS WWDC</a>
           </div>
         </div>
       </footer>
@@ -472,5 +467,5 @@ id="sec" class="form-control" rows="1" placeholder="sk_live_xxxxxxx"></textarea>
   <script src="arquivos/front.js"></script>
 </body>
 
-<!-- Mirrored from ninja-checker.herokuapp.com/checker.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:18:38 GMT -->
+
 </html>

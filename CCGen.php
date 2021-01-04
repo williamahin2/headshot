@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from ninja-checker.herokuapp.com/CCGen.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:21:58 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="UTF-8">
     <link rel="icon" type="image/ico" href="Ninja.html"/>
       <link href="https://fonts.googleapis.com/css?family=Tomorrow&amp;display=swap" rel="stylesheet">
-      <title id="title">𝗡𝗜𝗡𝗝𝗔 𝗖𝗖 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥</title>
-    <meta name="description" content="🔥NINJA NAVEEN🔥">
+      <title id="title">CROSSFIRE CC GENERATOR</title>
+    <meta name="description" content="🔥ANONYMOUS WWDC🔥">
   <link rel="stylesheet" href="arquivos/custom.css">
     <script type="text/javascript" async="" src="../www.google-analytics.com/analytics.js"></script>
      <script src="arquivos/jquery.min.js"></script>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="🔥NINJA CC Generator🔥">
+    <meta name="apple-mobile-web-app-title" content="🔥CROSSFIRE CC Generator🔥">
     <meta name="theme-color" content="#cb410b">
-    <meta name="application-name" content="🔥NINJA CC Generator🔥">
+    <meta name="application-name" content="🔥CROSSFIRE CC Generator🔥">
 
 
 <style>
@@ -1030,7 +1029,7 @@ textarea {
     <br>
     <div id="app">
         <center><h3 class="page-title-heading mr-0 mr-r-5"><p><a class="badge badge-blue" role="button" aria-pressed="true"><p style = "font-family:Montserrat, sans-serif;font-size:26px;font-weight:bold;">
-         Ninja Credit Card Generator
+         Crossfire Credit Card Generator
       </p></h3></center>
         <div class="container" style="padding-top: 15px;">
             <div class="row">
@@ -1049,7 +1048,7 @@ textarea {
                                  <center> 
                                     <br><br><br>
                                     © 2020 made by
-            <a href="http://t.me/ninjanaveen" target="_blank" style="color: #796AEE;"> NINJA NAVEEN</a></center>
+            <a href="http://t.me/anonymouswwdc" target="_blank" style="color: #796AEE;"> ANONYMOUS WWDC</a></center>
                                 
     </div>
     <script language="javascript">
@@ -6193,5 +6192,5 @@ textarea {
 </body>
 
 
-<!-- Mirrored from ninja-checker.herokuapp.com/CCGen.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:22:03 GMT -->
+
 </html>

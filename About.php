@@ -1,17 +1,12 @@
 
 
-<!-- saved from url=(0038)https://chkfull24hr.000webhostapp.com/ -->
+
 <html>
-<!-- Mirrored from editfly-chk.xyz/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 25 Oct 2018 02:18:04 GMT -->
-<!-- Added by HTTrack -->
-
-
-<!-- Mirrored from ninja-checker.herokuapp.com/About.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:21:31 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <!-- /Added by HTTrack -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <link rel="icon" type="image/png" href="logo.png">
-  <title id="title">𝗡𝗜𝗡𝗝𝗔 𝗖𝗖 𝗖𝗛𝗘𝗖𝗞𝗘𝗥</title>
+  <title id="title">CROSSFIRE CC CHECKER</title>
   <meta name="description" content="">
   <meta name="robots" content="all,follow">
   <link href="https://fonts.googleapis.com/css?family=Tomorrow&amp;display=swap" rel="stylesheet">
@@ -199,10 +194,10 @@ function myFunction() {
           <div class="statistic bg-white has-shadow">
             <blockquote class="blockquote mb-0 card-body">
            
-                 <h3 class="h4"><i class="fa fa-credit-card"></i>    Checker Made By <a href="http://t.me/ninjanaveen" target="_blank">@NinjaNaveen</a> </h3>
-                 <h3 class="h4" style="padding-top: 10px;"><i class="fa fa-telegram"></i>    Join Telegram Channel <a href="https://t.me/joinchat/AAAAAEz2wFGuTfGQB1wc2g" target="_blank">Royal Giveaways</a> </h3>
-                 <h3 class="h4" style="padding-top: 10px;"><i class="fa fa-telegram"></i>    Join Telegram Group <a href="https://t.me/joinchat/Pphtz0Y_KxMJZaxrxbi12g" target="_blank">Royal Giveaways Chat</a> </h3>
-                 <h3 class="h4" style="padding-top: 10px;"><i class="fa fa-telegram"></i>    Official Support Group <a href="https://t.me/NinjaChecker" target="_blank">Ninja Checker Support</a> </h3>
+                 <h3 class="h4"><i class="fa fa-credit-card"></i>    Checker Made By <a href="http://t.me/anonymouswwdc" target="_blank">@ANONYMOUSWWDC</a> </h3>
+                 <h3 class="h4" style="padding-top: 10px;"><i class="fa fa-telegram"></i>    Join Telegram Channel <a href="https://t.me/Crossfire_Tricks" target="_blank">THE CROSSFIRE</a> </h3>
+                 <h3 class="h4" style="padding-top: 10px;"><i class="fa fa-telegram"></i>    Join Telegram Group <a href="https://t.me/crossfirechat" target="_blank">CROSSFIRE CHAT</a> </h3>
+                 
                  <h1 class="h1" style="font-size: 40px;"> </h1>
 
                  <h1 class="h1" style="font-size: 40px;"> </h1>
@@ -238,5 +233,5 @@ function myFunction() {
   <script src="arquivos/front.js"></script>
 </body>
 
-<!-- Mirrored from ninja-checker.herokuapp.com/About.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Dec 2020 13:21:31 GMT -->
+
 </html>
