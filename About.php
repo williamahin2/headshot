@@ -163,11 +163,11 @@ body {
 <div class="topnav" id="myTopnav">
     <span class="topnavhead" id="demo"><b><img alt="Image placeholder" style="
     display: inline-block;margin-right: 5px; margin-left: 1px;padding-top: 0px;padding-bottom: 0px; height: 40px; width: 43px;" src="logo.png"> Ninja Checker</b></span>
-      <a href="about-2.html" class="topnavac" style="color: white" >About</a>
-      <a href="skcheck.html" >SK Checker</a>
-        <a href="skgen.html">SK Generator</a>
-        <a href="CCGen.html">CC Generator</a>
-  <a href="checker.html">CC Checker</a>
+      <a href="about-2.php" class="topnavac" style="color: white" >About</a>
+      <a href="skcheck.php" >SK Checker</a>
+        <a href="skgen.php">SK Generator</a>
+        <a href="CCGen.php">CC Generator</a>
+  <a href="index.php">CC Checker</a>
 
 
 
